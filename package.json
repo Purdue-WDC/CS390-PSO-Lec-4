@@ -1,0 +1,24 @@
+{
+  "name": "cs390-pso-lec-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purdue-WDC/CS390-PSO-Lec-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purdue-WDC/CS390-PSO-Lec-4/issues"
+  },
+  "homepage": "https://github.com/Purdue-WDC/CS390-PSO-Lec-4#readme",
+  "dependencies": {
+    "cute-animals": "^0.2.3",
+    "popular-movie-quotes": "^1.2.4",
+    "random-cat": "^1.0.1"
+  }
+}
